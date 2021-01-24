@@ -50,7 +50,7 @@ export const Navbar=({menu})=>{
         
           <ul className="nav flex-column bg-white mb-0">
             {menu.map(e=>e.menuid ?
-              <li className="nav-item">
+              <li key={e.menuid} className="nav-item">
                 <a href="#content" onClick={handleOnClick} className="nav-link text-dark font-italic bg-light"id={e.menuid}>
                           <i className={e.submenu=="1"? "fa fa-spinner fa-spin mr-3 text-primary fa-fw" : "fa fa-th-large mr-3 text-primary fa-fw"} ></i>
                           {e.name}
