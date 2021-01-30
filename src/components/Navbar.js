@@ -1,9 +1,8 @@
 import './Navbar.css'
 import React, { useState } from 'react'
 import {Acasa} from "./Acasa"
-import { Mine } from './Mine'
-import {Infintare} from './Infintare'
-import {Modificare} from './Modificare'
+import { Actualitati } from './Actualitati'
+import {Submenu} from './Submenu'
 import {Radiere} from './Radiere'
 import{Contact} from './Contact'
 import {Traducere} from './Traducere'
@@ -13,13 +12,14 @@ import foto from './foto1.png'
 
  const pages = {
     "1": Acasa,
-    "2": Mine,
-    "3":Infintare,
-    "4":Modificare,
-    "5":Radiere,
-    "6":Traducere,
-    "7":Consiliere,
-    "8":Contact
+    "2": Actualitati,
+    "3":Submenu,
+    "4":Submenu,
+    "5":Submenu,
+    "6":Radiere,
+    "7":Traducere,
+    "8":Consiliere,
+    "9":Contact
   }
 let activMenu='Acasa'
  

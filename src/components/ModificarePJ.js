@@ -1,9 +1,9 @@
 import React from 'react';
 
-export const Mine=()=>{
+export const ModificarePJ=()=>{
     return(
         <React.Fragment>
-        <h2 className="display-4 text-white">Despre mine</h2>
+        <h2 className="display-4 text-white">About page</h2>
           <p className="lead text-white mb-0">Build a fixed sidebar using Bootstrap 4 vertical navigation and media objects.</p>
           <p className="lead text-white">Snippet by <a href="https://bootstrapious.com/snippets" className="text-white">
                 <u>Bootstrapious</u></a>

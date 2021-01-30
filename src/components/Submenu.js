@@ -11,7 +11,7 @@ import top from './assets/up-arrow.png'
 const urlSubMenu="https://raw.githubusercontent.com/kmagdi/kt-data/main/submenu.csv"
 const urlFoto="https://raw.githubusercontent.com/kmagdi/kt-data/main/"
 
-export const Infintare=({menuid,menuName})=>{
+export const Submenu=({menuid,menuName})=>{
   /*console.log('menuid='+menuid)*/
   const {data,loading}=useFetch(urlSubMenu)
   const [subMenuData,setSubMenuData]=useState({})
@@ -29,7 +29,7 @@ export const Infintare=({menuid,menuName})=>{
                 <div key={e.submenuid} className="flex-container">
                     <div className="box">
                     <Card>
-                        <Card.Img variant="top" src={urlFoto+e.foto+'.jpg'} />
+                        <Card.Img variant="top" src={urlFoto+e.foto} />
                         <Card.Body>
                             <Card.Title>Card Title</Card.Title>
                             <Card.Text className="font-italic text-muted">{e.name}</Card.Text>

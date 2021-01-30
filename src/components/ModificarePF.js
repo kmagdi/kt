@@ -1,6 +1,6 @@
 import React from 'react';
 
-export const Modificare=()=>{
+export const ModificarePF=()=>{
     return(
         <React.Fragment>
         <h2 className="display-4 text-white">About page</h2>

@@ -1,16 +1,26 @@
 menuid;submenuid;name;descriere;termen;text1;text2;foto;n
-3;1;Infintare SRL;SRL - adica societate cu raspundere limitata -este cea mai uzuala forma de functionare.;Termen: 2 zile lucratoare din momentul in care dosarul este depus la Registrul Comertului.;;;infintare1;1
-3;2;Infintare SRL-D;Daca nu ati mai avut pana acum o firma, va puteti infiinta un SRL-D, iar taxele de la ONRC sunt GRATUITE! Ce este un SRL-D? Societatea cu Raspundere Limitata – Debutant este reglementata de catre Ordonanta de Urgenta 6/2011 si a fost realizata in vederea stimularii infiintarii si dezvoltarii microintreprinderilor de catre intreprinzatorii debutan?i.;Termen:2 zile lucratoare din momentul in care dosarul este depus la Registrul Comertului;;;infintare2;1
-3;3;Infintare PFA;descriere…;termen…;;;infintare3;1
-3;4;Infintare II;descriere…;termen…;;;infintare4;1
-3;5;Infintare IF;descriere…;termen…;;;infintare5;1
-4;1;submenu 1;descriere…;termen…;;;;1
-4;2;submenu 2;descriere…;termen…;;;;1
-4;3;submenu 3;descriere…;termen…;;;;1
-4;4;submenu 4;descriere…;termen…;;;;1
-4;5;submenu 5;descriere…;termen…;;;;1
-4;6;submenu 6;descriere…;termen…;;;;1
-5;1;submenu 1;descriere…;termen…;;;;1
-5;2;submenu 2;descriere…;termen…;;;;1
-5;3;submenu 3;descriere…;termen…;;;;1
-5;4;submenu 4;descriere…;termen…;;;;1
+3;1;Infintare SRL;SRL - adica societate cu raspundere limitata -este cea mai uzuala forma de functionare.;Termen: 2 zile lucratoare din momentul in care dosarul este depus la Registrul Comertului.;text1…;text2…;infintare1.jpg;1
+3;2;Infintare SRL-D;Daca nu ati mai avut pana acum o firma, va puteti infiinta un SRL-D, iar taxele de la ONRC sunt GRATUITE! Ce este un SRL-D? Societatea cu Rãspundere Limitatã – Debutant este reglementatã de cãtre Ordonanþa de Urgenþã 6/2011 si a fost realizatã în vederea stimulãrii înfiinþãrii si dezvoltãrii microîntreprinderilor de cãtre întreprinzãtorii debutanti.;Termen: 2 zile lucratoare din momentul in care dosarul este depus la Registrul Comertului;text1…;text2…;infintare2.jpg;1
+3;3;Infintare PFA;descriere…;termen…;text1…;text2…;infintare3.jpg;1
+3;4;Infintare II;descriere…;termen…;text1…;text2…;infintare4.jpg;1
+3;5;Infintare IF;descriere…;termen…;text1…;text2…;infintare5.jpg;1
+4;1;Inchidere punct de lucru PFA, II, IF;descriere…;termen…;text1…;text2…;m4s1.jpg;1
+4;2;Deschidere punct de lucru PFA, II, IF;descriere…;termen…;text1…;text2…;m4s2.jpg;1
+4;3;Suspendare/reluare activitate PFA, II, IF;descriere…;termen…;text1…;text2…;m4s3.jpg;1
+4;4;Schimbare sediu profesional PFA, II, IF;descriere…;termen…;text1…;text2…;m4s4.jpg;1
+4;5;Modificare obiect activitate PFA;descriere…;termen…;text1…;text2…;m4s5.jpg;1
+4;6;Extindere obiect activitate si autorizare PFA;descriere…;termen…;text1…;text2…;m4s6.jpg;1
+5;1;Schimbare sediu social SRL(in acelasi judet);descriere…;termen…;text1…;text2…;;1
+5;2;Schimbare sediu social SRL(in alt judet);descriere…;termen…;text1…;text2…;;1
+5;3;Prelungire valabilitate sediu social/profesional;descriere…;termen…;text1…;text2…;;1
+5;4;Schimbare denumire firma;descriere…;termen…;text1…;text2…;;1
+5;5;Cesiune parti sociale;descriere…;termen…;text1…;text2…;;1
+5;6;Majorare capital social;descriere…;termen…;text1…;text2…;;1
+5;7;Revocare numire administrator;descriere…;termen…;text1…;text2…;;1
+5;8;Suspendare/reluare activitate SRL;descriere…;termen…;text1…;text2…;;1
+5;9;Modificare obiect activitate SRL;descriere…;termen…;text1…;text2…;;1
+5;10;Autorizare activitati;descriere…;termen…;text1…;text2…;;1
+5;11;Extindere SRL - Autorizare SRL;descriere…;termen…;text1…;text2…;;1
+5;12;Inchidere si deschidere punct lucru;descriere…;termen…;text1…;text2…;;1
+6;1;Dizolvare voluntara/lichidare/radiere SRL;descriere…;termen…;text1…;text2…;;1
+6;2;Radiere PFA, II, IF;descriere…;termen…;text1…;text2…;;1
